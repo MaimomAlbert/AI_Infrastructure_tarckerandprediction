@@ -91,9 +91,11 @@ This allows **proactive monitoring**, not just reporting.
 
 ## 🖼️ Dashboard Preview
 
-> 📌 *Screenshots can be added here*
+<img width="1723" height="442" alt="image" src="https://github.com/user-attachments/assets/743c9d63-be2f-4204-bd78-cce5931e902c" />
 
+## ⚙️ How to Run Locally
 
-
-## 🏗️ System Architecture
+### 1️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
 
