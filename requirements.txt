@@ -1,0 +1,12 @@
+# PDF text extraction
+pdfplumber
+
+# Data handling
+pandas
+numpy
+
+# Dashboard
+streamlit
+
+# Optional (safe to include, useful for robustness)
+python-dateutil
